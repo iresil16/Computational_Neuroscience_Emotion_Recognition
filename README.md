@@ -53,6 +53,7 @@ The workflow involves:
    [Code repository](https://github.com/iresil16/Computational_Neuroscience_Emotion_Recognition/tree/main/code)  
 - `data/` – Instructions to download the **NeuroEmo dataset** (OpenNeuro ds005700, v1.2.0).  
    [Dataset link](https://openneuro.org/datasets/ds005700/versions/1.2.0) 
-- `figures/` – Example plots from FC and DFC analyses.
+- `computational_neuroscience_emotion_recognition.pdf` – Full project report in PDF format, containing detailed methodology, analyses, results, and figures.  
+   [Project Report](https://github.com/iresil16/Computational_Neuroscience_Emotion_Recognition/blob/main/computational_neuroscience_emotion_recognition.pdf)
 
 
