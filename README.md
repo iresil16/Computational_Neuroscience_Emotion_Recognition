@@ -50,8 +50,9 @@ The workflow involves:
 ##  Repository Structure
 
 - `code/` – Python scripts and notebooks implementing preprocessing, FC/DFC analyses, and machine learning pipelines.  
-  🔗 [Code repository](https://github.com/iresil16/Computational_Neuroscience_Emotion_Recognition/tree/main/code)  
-- `data/` – Instructions to download the NeuroEmo dataset (not included due to size and licensing).  
+   [Code repository](https://github.com/iresil16/Computational_Neuroscience_Emotion_Recognition/tree/main/code)  
+- `data/` – Instructions to download the **NeuroEmo dataset** (OpenNeuro ds005700, v1.2.0).  
+   [Dataset link](https://openneuro.org/datasets/ds005700/versions/1.2.0) 
 - `figures/` – Example plots from FC and DFC analyses.
 
 
